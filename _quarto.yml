@@ -1,19 +1,10 @@
-project:
+project: 
   type: website
 
-website:
-  title: "website_test"
+website: 
+  title: "Welcome to my Website"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    left: 
+      - index.qmd
       - about.qmd
-
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+      - Location.qmd

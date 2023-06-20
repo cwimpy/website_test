@@ -1,9 +1,31 @@
 ---
 title: "About"
+format:
+  html: default
+  pdf: default
+editor: visual
 ---
 
-About this site
+`Arkansas State University (ASU) is a public research university located in Jonesboro, Arkansas, United States. It is the flagship campus of the Arkansas State University System and offers a wide range of academic programs.`
 
-```{r}
-1 + 1
-```
+Key details about Arkansas State University:
+
+1.  **History:** ASU was established in 1909 as the First District Agricultural School. Over the years, it evolved into a four-year college and later became a university. It adopted its current name, Arkansas State University, in 1967.
+
+2.  **Campus:** The main campus of ASU is situated on 1,376 acres in Jonesboro, a city in northeastern Arkansas. The campus features modern academic buildings, residence halls, recreational facilities, and green spaces.
+
+3.  **Academic Programs:** ASU offers a comprehensive range of undergraduate and graduate programs across various disciplines. It has colleges and schools dedicated to fields such as Agriculture, Business, Education and Behavioral Science, Engineering and Computer Science, Liberal Arts and Communication, Nursing and Health Professions, Sciences and Mathematics, and Honors College.
+
+4.  **Research and Innovation:** ASU is a research-intensive institution with a strong focus on applied research and innovation. It promotes collaborative research projects and encourages students to engage in hands-on research experiences.
+
+5.  **Athletics:** ASU's athletic teams, known as the Arkansas State Red Wolves, compete in the NCAA Division I Sun Belt Conference. The university has a strong athletic program and fields teams in sports such as football, basketball, baseball, soccer, track and field, and more.
+
+6.  **Student Life:** ASU has a vibrant campus life with numerous student organizations, clubs, and activities. There are opportunities for involvement in areas like leadership development, community service, cultural events, and recreational pursuits.
+
+7.  **Facilities:** The university boasts modern facilities, including state-of-the-art classrooms, laboratories, libraries, and athletic complexes. ASU also has an on-campus museum, the Arkansas State University Museum, which showcases exhibits on regional history and art.
+
+8.  **Community Engagement:** ASU actively engages with the local community through various outreach initiatives. It collaborates with businesses, government agencies, and nonprofit organizations to address regional needs and contribute to the economic and social development of the area.
+
+`ASU has a reputation for academic excellence, commitment to research, and fostering student success. It serves as an educational and cultural hub in northeastern Arkansas, offering a diverse and inclusive learning environment.`
+
+![](Welcome-Center-web.jpeg)

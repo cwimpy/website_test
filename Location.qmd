@@ -1,0 +1,17 @@
+---
+title: "Location"
+format: html
+editor: visual
+---
+
+Where?
+
+:   ## Arkansas State University (ASU) is located in ***Jonesboro, Arkansas***.
+
+The physical address of the university is:
+
+`Arkansas State University 2105 E. Aggie Road Jonesboro, AR 72401`{style="padding: 0px 1px; border-width: 1px; border-style: solid; border-color: rgb(230, 230, 230) !important; border-image: initial; background-color: rgb(243, 243, 243) !important; font-family: Monaco, monospace !important; font-size: 9pt !important;"}
+
+The campus is situated on the eastern side of Jonesboro, near the intersection of Aggie Road and Johnson Avenue.
+
+![](downtown.jpg)

@@ -1,11 +1,13 @@
 ---
-title: "website_test"
+title: "Introduction"
+format: html
+editor: visual
 ---
 
-This is a Quarto website.
+Hi! Welcome to my website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a student that goes to [Arkansas State University](https://www.astate.edu).
 
-```{r}
-1 + 1
-```
+Let me introduce our school to you!
+
+![](astate.png){width="334"}
